@@ -61,6 +61,10 @@ Whole line latex:
 
 .. math:: J(\theta) = \frac{1}{m} \sum^{m}_{j=1}(h_{\theta}(x^{(j)})-y^{(j)})^2
 
+.. math:: 
+
+J(\theta) = \frac{1}{m} \sum^{m}_{j=1}(h_{\theta}(x^{(j)})-y^{(j)})^2
+
 image:
 
 .. image:: http://imgsv.imaging.nikon.com/lineup/dslr/d600/img/sample01/img_02.png
