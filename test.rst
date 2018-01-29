@@ -65,3 +65,6 @@ image:
 
 .. image:: http://imgsv.imaging.nikon.com/lineup/dslr/d600/img/sample01/img_02.png
 
+.. image:: https://latex.codecogs.com/gif.latex?J%28%5Ctheta%29%20%3D%20%5Cfrac%7B1%7D%7Bm%7D%20%5Csum%5E%7Bm%7D_%7Bj%3D1%7D%28h_%7B%5Ctheta%7D%28x%5E%7B%28j%29%7D%29-y%5E%7B%28j%29%7D%29%5E2
+
+
