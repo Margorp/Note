@@ -71,5 +71,5 @@ image:
 
 .. image:: https://latex.codecogs.com/gif.latex?J%28%5Ctheta%29%20%3D%20%5Cfrac%7B1%7D%7Bm%7D%20%5Csum%5E%7Bm%7D_%7Bj%3D1%7D%28h_%7B%5Ctheta%7D%28x%5E%7B%28j%29%7D%29-y%5E%7B%28j%29%7D%29%5E2
 
-.. image:: https://latex.codecogs.com/gif.latex?a=2
+.. image:: https://latex.codecogs.com/gif.latex?\sums\limits^{n}_{i=0}X_i
 
